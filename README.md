@@ -19,7 +19,6 @@ Certainly, here's a concise overview of the website:
   - Firebase: Firestore for data
 - **Deployment**: Hosted on Render
 
-
-![Alt text](../../../Users/HP/Desktop/1.png)
+![1](https://github.com/Gautamkumarsolanki/kanban/assets/42197609/f65018ba-b3bc-4cd3-9a53-f79fc4cf3191)
 
 Live link :- https://kanban-rwxj.onrender.com
